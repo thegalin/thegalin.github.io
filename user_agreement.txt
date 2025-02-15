@@ -1,0 +1,73 @@
+**User Agreement for Flip Clock Application**
+
+**Last Updated: [Insert Date]**
+
+This User Agreement ("Agreement") governs your use of the Flip Clock application ("Application" or "App") available on the AppGallery platform. By downloading, installing, or using the Application, you agree to be bound by the terms and conditions outlined in this Agreement. If you do not agree to these terms, please do not use the Application.
+
+---
+
+### 1. **Application Description**
+Flip Clock is a digital flip clock application designed to display time in a classic flip clock style. The Application does not collect, store, or process any personal data from its users.
+
+---
+
+### 2. **Acceptance of Terms**
+By using the Application, you confirm that you have read, understood, and agreed to this Agreement. If you are using the Application on behalf of an organization, you represent that you have the authority to bind that organization to these terms.
+
+---
+
+### 3. **Privacy and Data Collection**
+The Application does not collect, store, or share any personal data from its users. However, the Application may display third-party advertisements, including sticker ads ("Sticker Ads"), to support the development and maintenance of the App. These ads are served by third-party ad networks and may use non-personal data (e.g., device type, language) to deliver relevant advertisements.
+
+---
+
+### 4. **Advertising**
+The Application may display Sticker Ads provided by third-party ad networks. These ads are not controlled by the Application developer, and the developer is not responsible for the content, accuracy, or practices of these ads. By using the Application, you acknowledge and agree that:
+- Ads may be displayed within the Application.
+- The Application does not endorse or guarantee the products or services advertised.
+- You may encounter ads that are irrelevant or inappropriate, and the developer is not liable for such content.
+
+---
+
+### 5. **Prohibited Uses**
+You agree not to:
+- Reverse engineer, decompile, or attempt to extract the source code of the Application.
+- Use the Application for any illegal or unauthorized purpose.
+- Modify, adapt, or create derivative works based on the Application.
+
+---
+
+### 6. **Disclaimer of Warranties**
+The Application is provided "as is" and "as available" without any warranties of any kind, either express or implied. The developer does not guarantee that the Application will be error-free, uninterrupted, or compatible with your device.
+
+---
+
+### 7. **Limitation of Liability**
+To the fullest extent permitted by law, the developer shall not be liable for any indirect, incidental, special, or consequential damages arising out of or in connection with your use of the Application.
+
+---
+
+### 8. **Changes to This Agreement**
+The developer reserves the right to modify or update this Agreement at any time. Any changes will be effective upon posting the revised Agreement within the Application or on the AppGallery page. Your continued use of the Application after such changes constitutes your acceptance of the updated Agreement.
+
+---
+
+### 9. **Termination**
+The developer reserves the right to terminate or suspend your access to the Application at any time, without notice, for any reason, including but not limited to a violation of this Agreement.
+
+---
+
+### 10. **Governing Law**
+This Agreement shall be governed by and construed in accordance with the laws of [Insert Your Country/Region]. Any disputes arising from this Agreement shall be resolved in the courts of [Insert Your Country/Region].
+
+---
+
+### 11. **Contact Information**
+If you have any questions or concerns about this Agreement or the Application, please contact us at:
+[Insert Your Email Address]
+
+---
+
+By using the Flip Clock Application, you acknowledge that you have read, understood, and agreed to this User Agreement.
+
+**Thank you for using Flip Clock!**
